@@ -1,6 +1,6 @@
 - 👋 Hi, I’m `retr0`
 - 👀 I’m interested in penetration testing and red teaming
-- 🌱 I’m currently learning with TCM Security to complete my PNPT certification and also OSCP
+- 🌱 I’m currently learning with TCM Security and HTB academy to complete my PNPT and CPTS certifications. Eventually OSCP one day...
 - 💞️ I’m looking to collaborate on red team operations
 - 📫 How to reach me Twitter: 0xretr0__ 
 
